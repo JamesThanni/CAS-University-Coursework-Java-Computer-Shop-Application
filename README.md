@@ -4,7 +4,11 @@ Welcome to the Computer Accessories Shop program developed in Java using object 
 
 This is my first ever Object Oriented Programming Project and I look forward to learning more about OOP and producing more efficient software! :)
 
-To run the project, run "java -jar cas.jar" in the directory. 
+To run the project, run "java -jar cas.jar" in the directory. All source code and java files are located in the "cas-cwk" folder
+
+To operate the program, search for items with the search button, select them by clicking on the table row and once added to basket, you may test the available functionalities.
+
+
 
 FAQ?
 - Item is list in blank initially? Clear the search input textbox and press search.
