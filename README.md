@@ -11,4 +11,4 @@ To operate the program, search for items with the search button, select them by 
 
 
 ## FAQ
-- Item is list in blank initially: Clear the search input textbox and press search.
+- Items list in blank initially: Clear the search input textbox and press search.
