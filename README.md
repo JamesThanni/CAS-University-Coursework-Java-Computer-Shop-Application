@@ -4,4 +4,7 @@ Welcome to the Computer Accessories Shop program developed in Java using object 
 
 This is my first ever Object Oriented Programming Project and I look forward to learning more about OOP and producing more efficient software! :)
 
-To run the project, run "java -jar cas.jar" in the directory.
+To run the project, run "java -jar cas.jar" in the directory. 
+
+FAQ?
+- Item is list in blank initially? Clear the search input textbox and press search.
