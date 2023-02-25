@@ -1,5 +1,7 @@
 # CAS - Java Computer Shop Application
 
+### Developed in 2019 for First Year University Coursework 
+
 Welcome to the Computer Accessories Shop app developed in Java using object oriented programming methods. The task of this project was to develop a system in Java for a Computer Accessories Shop (CAS) to help an example business handle many activities in an easy and practical manner. This is my first ever Object Oriented Programming Project and I look forward to learning more about OOP and producing more efficient software! :)
 
 ## Instructions
