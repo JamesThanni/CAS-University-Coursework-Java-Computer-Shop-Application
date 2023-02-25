@@ -7,4 +7,4 @@ To run the project, run "java -jar cas.jar" in the directory. All source code an
 
 
 ## FAQ
-- Items list is blank initially: Clear the search input textbox and press search.
+- Items list is blank initially: Clear the search input textbox and press search to see all items.
